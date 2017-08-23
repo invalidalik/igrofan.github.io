@@ -1,0 +1,130 @@
+body{
+ 
+ background: url(images.jpg) no-repeat center fixed;
+ background-size:cover;
+
+
+ body {
+  background: url('video.png');
+  background-size: cover;
+}
+
+.bgvideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -9999;
+}
+ 
+ }
+
+
+h3{
+	color:#3af500;
+	font-size:15px;
+
+}
+
+
+
+
+
+li{
+ color:#fff;
+font-size:15px; 
+	
+	
+	
+}
+	
+	
+	a{
+		
+		
+		color:#fff;
+		font-size:15px;
+	}
+
+
+
+
+
+p{
+	
+	
+	color:#f00;
+	font-size:15px;
+	
+	
+}
+
+
+
+
+
+header{
+	
+	width: 900px;
+	height: 200px;
+	background-color:#000;
+	margin-bottom:10px
+header-bg {
+ background: url(images/header-alik.jpg) repeat-x center bottom; 
+ height: 405px; 
+}
+
+ 
+}
+ 
+ h1{
+	 color:#f50000;
+	 font-size:60px;
+	 }
+
+ h2{
+	 color:#f58a00;
+	 font-size:30px;
+	 
+	 
+	 
+ }
+
+ 
+ 
+ h5{
+	 
+	 
+	 color:#47ff0d;
+	 font-size:;
+	 
+ }
+ 
+ 
+ center{
+	 
+	 color:#b70303;
+	 
+	 
+	 
+	 
+	 
+ }
+ 
+ 
+ *{
+	 color:#d00505;
+
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+ 
